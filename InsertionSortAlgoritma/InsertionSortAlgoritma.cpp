@@ -29,8 +29,6 @@ void input() {
 void insertionSort() {
 	int i, temp, j;
 
-
-
 	for (i = 1; i <= n - 1; i++) // step 1
 	{
 
